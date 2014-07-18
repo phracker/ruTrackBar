@@ -1,0 +1,4 @@
+plugin.description: Adds links to private trackers to the toolbar.
+plugin.author: phracker
+plugin.version: 0.2
+need_rtorrent: 0
