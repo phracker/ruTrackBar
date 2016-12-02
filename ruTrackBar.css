@@ -148,6 +148,12 @@
   width: 16px;
   height: 16px;
 }
+#tl_beta, div#t #tl_beta {
+  background: transparent url(./images/tl_beta.png) no-repeat;  
+  background-size: contain;
+  width: 16px;
+  height: 16px;
+}
 #tp, div#t #tp 2p {
   background: transparent url(./images/tp2p.png) no-repeat;  
   background-size: contain;
